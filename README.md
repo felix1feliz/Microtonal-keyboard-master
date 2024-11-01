@@ -17,3 +17,4 @@
 You may change the tuning by going on script.js line 9 and changing the tuning file.
 The available tunings are:
  - ./tunings/18TET.json
+ - ./tunings/BST.json
